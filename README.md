@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Website design and low layer.
 
 <h2>Now</h2>
--岡山理科大学 工学部 情報工学科 B2
--情報処理研究部 WEB開発・ホームページ制作 担当
+<sub> -岡山理科大学 工学部 情報工学科 B2</sub>	
+<sub> -情報処理研究部 WEB開発・ホームページ制作 担当</sub>
+
   
 <h2>My Experience</h2>
--2022年7月 ~ 2022年８月  セキュリティ・キャンプ2022 [B2]
--2021年10月 ~  次世代ユネスコ国内委員会 [B1~]
--2021年4月 ~　 岡山県ユネスコスクールネットワーク学生スタッフ (2021年10月〜 学生スタッフ代表) [B1~]
-
+<sub> -2022年7月 ~ 2022年８月  セキュリティ・キャンプ2022 [B2]</sub>	
+<sub> -2021年10月 ~  次世代ユネスコ国内委員会 [B1~]</sub>	
+<sub> -2021年4月 ~　 岡山県ユネスコスクールネットワーク学生スタッフ (2021年10月〜 学生スタッフ代表) [B1~]</sub>
 
 <!---
 siso5/siso5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
