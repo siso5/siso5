@@ -11,6 +11,7 @@
 </li>
 
 <h2>My Experience</h2>
+<style>li: {font-size:10px;}</style>
 <ul>
 <li>
 2022年7月 ~ 2022年８月  セキュリティ・キャンプ2022 [B2]
