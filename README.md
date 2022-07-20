@@ -2,11 +2,13 @@
 - 👀 I’m interested in VPN protocol.
 - 🌱 I’m currently learning Website design and low layer.
 
-<h2>My Experience</h2>
-<ul>
+<h2>Now</h2>
 <li>
 岡山理科大学 工学部 情報工学科 B2(now)
 </li>
+
+<h2>My Experience</h2>
+<ul>
 <li>
 2022年7月 ~ 2022年８月  セキュリティ・キャンプ2022 [B2]
 </li>
