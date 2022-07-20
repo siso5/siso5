@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning Website design and low layer.
 
 <h2>Now</h2>
-<li>
+<li style="font-size:10px;">
 岡山理科大学 工学部 情報工学科 B2
 </li>
-<li>
+<li style="font-size:10px;">
 情報処理研究部 WEB開発・ホームページ制作 担当
 </li>
 
 <h2>My Experience</h2>
-<ul style="font-size:10px;">
+<ul style="font-size:5px;">
 <li>
 2022年7月 ~ 2022年８月  セキュリティ・キャンプ2022 [B2]
 </li>
