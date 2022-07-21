@@ -27,7 +27,7 @@
 int main(void)
 {
     char name[30];
-    int i, j, count, num = 0;
+    int i, count, num = 0;
 
     printf("キーボードから自分の名前をアルファベットで入力して下さい : ");
     scanf("%s", name);
