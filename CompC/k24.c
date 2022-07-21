@@ -49,7 +49,7 @@ int main(void)
 
     printf(" です。\n");
 
-    printf("%s に含まれるa(A)とu(U)は%d文字です。\n", name, num);
+    printf("%s に含まれるa(A)とu(U)は %d 文字です。\n", name, num);
 
     return 0;
 
