@@ -35,7 +35,7 @@
 int main(void)
 {
     char plain[50], cipher[50];
-    int i, num, count, plaintext, ciphertext, tmp;
+    int i, num;
 
       char input[26] = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'g', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
      char output[26] = { 'g', 'm', 'y', 'u', 'r', 'z', 'b', 'w', 'x', 'o', 'q', 'c', 'e', 'i', 'f', 'n', 'd', 'v', 't', 's', 'k', 'p', 'j', 'l', 'a', 'h'};
