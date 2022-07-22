@@ -10,7 +10,7 @@
 // それは単一換字式暗号である。この単一換字式暗号のプログラムを作成しなさい。
 // 以下は単一換字式暗号における文字の変換の例である。
 
-// 前 a b c d e f g h i g k l m n o p q r s t u v w x y z 
+// 前 a b c d e f g h i j k l m n o p q r s t u v w x y z 
 // 後 g m y u r z b w x o q c e i f n d v t s k p j l a h
 
 //  !!!正しくはokayama >> FQGAGEG!!!
@@ -37,7 +37,7 @@ int main(void)
     char plain[50], cipher[50];
     int i, num;
 
-      char input[26] = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'g', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
+      char input[26] = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
      char output[26] = { 'g', 'm', 'y', 'u', 'r', 'z', 'b', 'w', 'x', 'o', 'q', 'c', 'e', 'i', 'f', 'n', 'd', 'v', 't', 's', 'k', 'p', 'j', 'l', 'a', 'h'};
 
 
