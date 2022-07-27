@@ -66,7 +66,7 @@ int main(void)
             imax = i;
         }
     }
-    printf("最大値 : %d, 最大値の添字番号 : %d\n", max, imax);
+    printf("最大値 : %d, 最大値の添字番号 : %d\n", max, imax + 1);
 
     min = 0;
 
@@ -80,7 +80,7 @@ int main(void)
             imin = i;
         }
     }
-    printf("最小値 : %d, 最小値の添字番号 : %d\n", min, imin);
+    printf("最小値 : %d, 最小値の添字番号 : %d\n", min, imin + 1);
 
 /*======================================================================*/
 int j, input = 0;
