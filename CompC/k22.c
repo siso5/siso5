@@ -112,7 +112,7 @@ int output[data] = {9, -11, 23, 99, 43, -55, 5};
 
         }
     }
-       printf("入力された値 %d から一番距離が近い要素は %d 番目の %d です。", input, j+1, num[j]);
+       printf("入力された値 %d から一番距離が近い要素は %d 番目の %d です。", input, j + 1, num[j]);
        printf("\n");
 
        return 0;
