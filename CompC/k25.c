@@ -1,64 +1,119 @@
-/* 第6回　課題2-k2-5 */
+/* 第6回　課題2-k2-2 */
 
-/* K2-5 */
-// （2点）
-// 単一換字式暗号
-// （たんいつかえじしきあんごう、Simple substitution cipher）とは、
-// 換字式暗号の一種で、平文の文字に対して、
-// 暗号文の文字が常に同じ文字に変換されるような暗号のことである。
-// 例えば、平文の“d”が、暗号文で必ず“a”になるならば、
-// それは単一換字式暗号である。この単一換字式暗号のプログラムを作成しなさい。
-// 以下は単一換字式暗号における文字の変換の例である。
+/* K2-2 */
+// （2 点） 要素数 7 の int 型配列 data を宣言し，以下のデータを初期化子として初期化
+// しなさい。
+// 配列の長さ（７）を設定するためにマクロを使用しなさい。次に，このデータの中から
+//     a. 平均値
+//     b. 最大値を見つけ，最大値とその添字番号
+//     c. 最小値を見つけ，最小値とその添字番号
+//     d. ユーザーにより入力された整数と一番距離が近い要素とその添字番号を出力するプログラムを作成しなさい。
+// なお、平均値を四捨五入によって小数点以下第 2 位まで求めなさい。
 
-// 前 a b c d e f g h i j k l m n o p q r s t u v w x y z 
-// 後 g m y u r z b w x o q c e i f n d v t s k p j l a h
+// データ：9, -11, 23, 99, 43, -55, 5
 
-//  !!!正しくはokayama >> FQGAGEG!!!
-//  !!!(間違え：FQGQGEG << okakaya)!!!
-
-// 1. キーボードから平文を小文字のアルファベットで入力し、
-//    文字列配列plain（要素数50）に代入すること。（spaceを使用しない入力）
-// 2. 暗号文（大文字のアルファベットで表示する）を求め、
-//    文字列配列cipher（要素数50）に格納する。
-// 3. cipherの文字列を暗号文として出力しなさい。
 
 /*【実行例】*/
-// t21j000@pc00:~/kisopro2/exercise$ ./k25<ENTER>
-// キーボードから平文を小文字のアルファベットで入力して下さい：okayama<ENTER>
-// okayamaの暗号文（大文字）はFQGAGEGです。
-// t21j000@pc00:~/kisopro2/exercise$
+// t21j000@pc00:~/kisopro2/exercise$ ./k22<ENTER>
+// データ：9, -11, 23, 99, 43, -55, 5
+// 平均値：16.14
+// 最大値：99, 最大値の添字番号：3
+// 最小値：-55, 最小値の添字番号：5
+// 検索したい数値：13 <ENTER>
+// 入力された値 13 から一番距離が近い要素は 0 番目の 9 です。
+// t21j000@pc00:~/kisopro2/exercise$■
 
 
 
 /*【ソースコード】*/
-#include<stdio.h>
+#include <stdio.h>
+#define data 7
 int main(void)
 {
-    char plain[50], cipher[50];
-    int i, num;
+     int i, max, min;
+     int sum = 0, imax = 0, imin = 0;
+     double average;
 
-      char input[26] = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
-     char output[26] = { 'g', 'm', 'y', 'u', 'r', 'z', 'b', 'w', 'x', 'o', 'q', 'c', 'e', 'i', 'f', 'n', 'd', 'v', 't', 's', 'k', 'p', 'j', 'l', 'a', 'h'};
+     int num[data] = {9, -11, 23, 99, 43, -55, 5};
 
+     printf("データ : ");
 
-    printf("キーボードから平文を小文字のアルファベットで入力して下さい。(※ space 使用不可) : ");
-    scanf("%s", plain);
-
-    printf("%s の暗号文（大文字）は ", plain);
-
-    for(i = 0; plain[i]!='\0'; i++)
-    {
-        for(num = 0; num < 26; num++){
-            if(plain[i] == input[num])
-                {
-                    cipher[i] = output[num];
-                    cipher[i] -= 'a' - 'A';   
-                }
+     for(i = 0; i < data; i++){
+        printf("%d", num[i]);
+        if(i < data - 1){
+            printf(", ");
         }
-        printf("%c", cipher[i]);
-    }
+     }
 
-    printf(" です。\n");
-    return 0;
-    
+     printf("\n");
+
+     printf("平均値 : ");
+     for(i = 0; i < data; i++){
+        sum += num[i];
+     }
+     printf("%.2f\n", sum / (double)data);
+
+    max = 0;
+
+    for (i = 0; i < data; i++) {
+
+        if (max < num[i]) {
+            max = num[i];
+        }
+
+        if(max == num[i]){
+            imax = i;
+        }
+    }
+    printf("最大値 : %d, 最大値の添字番号 : %d\n", max, imax);
+
+    min = 0;
+
+    for (i = 0; i < data; i++) {
+
+        if (min > num[i]) {
+            min = num[i];
+        }
+
+        if(min == num[i]){
+            imin = i;
+        }
+    }
+    printf("最小値 : %d, 最小値の添字番号 : %d\n", min, imin);
+
+/*======================================================================*/
+
+int j, input = 0;
+int output[data] = {9, -11, 23, 99, 43, -55, 5};
+
+    printf("検索したい数値：");
+    scanf("%d", &input);
+
+    for(i = 0; i < data; i ++){
+
+     if(input > num[i]) {
+            output[i] = input - num[i];
+        }
+
+     else {
+            output[i] = num[i] - input;
+        }
+}
+
+        min = output[0];
+
+        for(i = 1, j = 0; i < data; i ++){
+
+        if(output[i] < min){
+
+        min = output[i];
+
+        j = i;
+
+        }
+    }
+       printf("入力された値 %d から一番距離が近い要素は %d 番目の %d です。", input, j, num[j]);
+    printf("\n");
+
+       return 0;
 }
