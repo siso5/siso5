@@ -8,12 +8,9 @@
 <h5>
 <ul>
 <li>
-岡山理科大学 工学部 情報工学科 B2</sub>	
+college student B2
 </li>
 <br>
-<li>
-情報処理研究部 WEB開発・ホームページ制作 担当
-</li>
 </ul>
 </h5>
 <hr>
