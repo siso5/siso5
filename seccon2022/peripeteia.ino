@@ -4,17 +4,17 @@
 
 /*
  * Sender and Receiver Program
- * 
+ *
  * Pin Assign
- * 
+ *
  * Sender Case
  *       SENDER      RECIVER
  * Data  D2     >>  D2
  * CLK   D3     >>  D3
  * ACK   D4     <<  D4
  * MODE  D7     <<  HIGH
- * 
- * Receiver Case   
+ *
+ * Receiver Case
  *        RECIVER     SENDER
  *  Data D2      << D2
  *  CLK  D3      << D3
@@ -28,33 +28,39 @@
 #define MODE  PD7
 
 void setup() {
-  Serial.begin(19200);
+  Serial.begin(9600);
   randomSeed(123);
-  pinMode(MODE, INPUT);
+  DDRD |= B10000000;
   if (digitalRead(MODE)==HIGH) { // SENDER
-    pinMode(DATA, OUTPUT); // data
-    pinMode(CLK,  OUTPUT); // CLK
-    pinMode(ACK,  INPUT);  // ACK
-    digitalWrite(DATA, LOW);
-    digitalWrite(CLK,  LOW);
+    DDRD |= B00000100;  /* pinMode(DATA, OUTPUT); // data */
+    DDRD |= B00001000;  /* pinMode(CLK,  OUTPUT); // CLK  */
+    DDRD |= B00000000;  /* pinMode(ACK,  INPUT);    // ACK  */
+    digitalWrite(DATA, LOW);  
   } else {                      // RECEIVER
-    pinMode(DATA, INPUT);
-    pinMode(CLK,  INPUT);
-    pinMode(ACK,  OUTPUT);
-    digitalWrite(ACK, LOW);
+    DDRD |= B00000000;  /* pinMode(DATA, INPUT); // data */
+    DDRD |= B00000000;  /* pinMode(CLK,  INPUT); // CLK  */
+    DDRD |= B00010000;  /* pinMode(ACK,  OUTPUT);    // ACK  */
+   digitalWrite(ACK, LOW);
     while (!Serial) ;
   }
-  
+
   findHeader();
 }
+
+
+
+/*  • 「参考プログラム」のsendOneByte(), recvOneByte()を効率の良いものに書き換えてください(47行目から99行目)　 */
+/*    (47行目から99行目)   >>    void sendOneBit(※ void sendOneByteではない) ~ recvOneByte(/*・・=====・・ *//*) までの間は変更可能　 */
+/*  • その他のプログラミングにおける制限はありません.コードの追加やasm文の利用なども可能とします 　*/
+
 
 void sendOneBit(byte data) {
   if (data == 0) {
     digitalWrite(DATA, LOW);
   } else {
-    digitalWrite(DATA, HIGH);
+    PORTD |= B00000100;  /* digitalWrite(DATA, HIGH); */
   }
-  digitalWrite(CLK, HIGH);
+  PORTD |= B00001000; /* digitalWrite(CLK, HIGH);*/
   while (digitalRead(ACK)==LOW) ;
   digitalWrite(CLK, LOW);
   while (digitalRead(ACK)==HIGH) ;
@@ -64,7 +70,7 @@ void sendOneByte(byte data) {
   sendOneBit(data & 128);
   sendOneBit(data & 64);
   sendOneBit(data & 32);
-  sendOneBit(data & 16);  
+  sendOneBit(data & 16);
   sendOneBit(data & 8);
   sendOneBit(data & 4);
   sendOneBit(data & 2);
@@ -74,8 +80,8 @@ void sendOneByte(byte data) {
 int recvOneBit() {
   int data;
   while (digitalRead(CLK)==LOW) ;
-  data = digitalRead(DATA);
-  digitalWrite(ACK, HIGH);
+  data = digitalRead(DATA); /*data = digitalRead(DATA);*/
+  PORTD |= B00010000;      /* digitalWrite(ACK, HIGH); */
   while (digitalRead(CLK)==HIGH) ;
   digitalWrite(ACK, LOW);
   return data;
@@ -83,7 +89,7 @@ int recvOneBit() {
 
 void findHeader() {
     if (digitalRead(MODE)==HIGH) {
-      delay(1000);
+      delay(350);
     } else {
       ;
     }
@@ -101,6 +107,8 @@ byte recvOneByte(){
   data = data | recvOneBit();
   return data;
 }
+
+/* =========================================================================================== */
 
 void recvOneKiloByte() {
   for (unsigned long i=0; i<1024; i++) {
@@ -141,3 +149,4 @@ void loop() {
     Serial.println(" bit/sec.");
   }
 }
+
