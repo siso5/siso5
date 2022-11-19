@@ -30,7 +30,7 @@ college student B2
 <li>
 2022年11月19日 <br> seccon2022 ロバストL1通信競技<br>(使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
 </li>
- ※secconが終わり次第、大会で使用したプログラムを反映させます。
+ <s>※secconが終わり次第、大会で使用したプログラムを反映させます。</s>
  <br>
 </ul>
 </h5>
