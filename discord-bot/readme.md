@@ -1,1 +1,19 @@
-readme.md
+function updateServerStatus() {
+  Gamedig.query({
+    type: 'minecraft',
+    host: 'ww[.]xxx[.]net',　///19行目のここは各自のホスト名などに変更する。
+    port: 19132
+
+///
+
+// ボットをログインさせる
+41行目　client.login('BOT_TOKEN');　//Botのトークンを入力する
+
+
+#### 簡単な説明
+
+1. gamedigのライブラリーを入れる
+(URL : https://www.npmjs.com/package/gamedig )
+
+続きは後日
+
