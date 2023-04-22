@@ -1,7 +1,6 @@
 const path = require('path');
 const { Client, Intents } = require('discord.js');
 const Gamedig = require('gamedig');
-require('dotenv').config();
 
 const client = new Client({
     intents: [
