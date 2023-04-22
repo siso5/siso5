@@ -17,7 +17,7 @@ client.on('ready', () => {
 function updateServerStatus() {
   Gamedig.query({
     type: 'minecraft',
-    host: 'www.xxx.net',
+    host: 'www[.]xxx[.]net',
     port: 25565
   }).then((state) => {
     console.log(`Minecraft Java is UP `);
