@@ -32,7 +32,8 @@ pm2を用いた起動がおすすめです。
  
         pm2 start dicord-bot-bedrock.js --name minecraft-bedrock
        
-       
+　
+ 
         pm2 start dicord-bot-java.js --name minecraft-java
 
 
