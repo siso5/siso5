@@ -24,11 +24,15 @@ function updateServerStatus() {
 pm2を用いた起動がおすすめです。
 ( URL : https://pm2.keymetrics.io/ )
 
-まず、discordのbotのプログラム(discord-bot.js)が置かれているディレクトリに移動し、そこで以下を実行してください。
+まず、discordのbotのプログラム(discord-bot-bedrock.js, discord-bot-java.js)が置かれているディレクトリに移動し、そこで以下を実行してください。
 
 
         npm install pm2 -g
 　
-        pm2 start di
+ 
+        pm2 start dicord-bot-bedrock.js --name minecraft-bedrock
+        
+　
+        pm2 start dicord-bot-java.js --name minecraft-java
 
 
