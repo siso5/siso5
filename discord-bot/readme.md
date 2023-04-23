@@ -19,5 +19,5 @@ function updateServerStatus() {
 
 1.と2. 
 
-'' npm install discord.js gamedig
+       npm install discord.js gamedig
 
