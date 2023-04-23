@@ -13,7 +13,8 @@ function updateServerStatus() {
 #### 簡単な説明
 
 1.  node.jsを入れる
-2.　discord, gamedigのライブラリーを入れる
+
+.　discord, gamedigのライブラリーを入れる
 (URL : https://www.npmjs.com/package/gamedig )
 
 以下のように入力する
