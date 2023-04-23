@@ -3,7 +3,7 @@
 
 ### 変更点
 
-19行目  host: 'ww[.]xxx[.]net',　///各自のホスト名などに変更する。
+19行目  host: 'ww[.]xxx[.]net',　//各自のホスト名などに変更する。
 
 41行目　client.login('BOT_TOKEN');　//Botのトークンを入力する
 
@@ -35,5 +35,8 @@ pm2を用いた起動がおすすめです。
 　
  
         pm2 start dicord-bot-java.js --name minecraft-java
+        
+ 
+ ※pm2の詳しい使い方などはpm2のHPを見てください。
 
 
