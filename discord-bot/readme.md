@@ -28,7 +28,7 @@ pm2を用いた起動がおすすめです。
 
 
         npm install pm2 -g
-     
+　
         pm2 start di
 
 
