@@ -26,7 +26,7 @@ pm2を用いた起動がおすすめです。
 
 まず、discordのbotのプログラム(discord-bot.js)が置かれているディレクトリに移動し、そこで以下を実行してください。
 
-　　　　npm install pm2 -g
-       pm2 start di
+　　　 　npm install pm2 -g
+        pm2 start di
 
 
