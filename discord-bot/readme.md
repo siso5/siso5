@@ -15,5 +15,9 @@ function updateServerStatus() {
 1. gamedigのライブラリーを入れる
 (URL : https://www.npmjs.com/package/gamedig )
 
-続きは後日
+2. discordのライブラリーを入れる
+
+1.と2. 
+
+'' npm install discord.js gamedig
 
