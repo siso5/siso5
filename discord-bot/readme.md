@@ -2,13 +2,8 @@
 ##### Minecraftのサーバーの状態などをdiscordのbotのオンライン状態やstatusメッセージで表示できるようにしています。
 
 
-function updateServerStatus() {
-  Gamedig.query({
-    type: 'minecraft',
-    host: 'ww[.]xxx[.]net',　///19行目のここは各自のホスト名などに変更する。
-    port: 19132
+19行目  host: 'ww[.]xxx[.]net',　///各自のホスト名などに変更する。
 
-// ボットをログインさせる
 41行目　client.login('BOT_TOKEN');　//Botのトークンを入力する
 
 
