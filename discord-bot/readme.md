@@ -37,6 +37,6 @@ pm2を用いた起動がおすすめです。
         pm2 start dicord-bot-java.js --name minecraft-java
         
  
- ※pm2の詳しい使い方などはpm2のHPを見てください。
+ ※pm2の詳しい使い方などはpm2の[HP](https://pm2.keymetrics.io/)を見てください。
 
 
