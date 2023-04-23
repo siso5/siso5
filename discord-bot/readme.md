@@ -1,3 +1,7 @@
+### 用途
+##### Minecraftのサーバーの状態などをdiscordのbotのオンライン状態やstatusメッセージで表示できるようにしています。
+
+
 function updateServerStatus() {
   Gamedig.query({
     type: 'minecraft',
