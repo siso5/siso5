@@ -20,6 +20,7 @@ function updateServerStatus() {
 
        npm install discord.js gamedig
 
+3. 起動方法
 
 pm2を用いた起動がおすすめです。
 ( URL : https://pm2.keymetrics.io/ )
