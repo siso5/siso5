@@ -36,7 +36,10 @@ college student B3
 </h5>
 <hr>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 siso5/siso5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
