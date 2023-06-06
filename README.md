@@ -36,9 +36,7 @@ college student B3
 </h5>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5&show_icons=true&theme=radical)
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
+![Suisan(siso5)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
 
