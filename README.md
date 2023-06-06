@@ -35,6 +35,8 @@ college student B3
 </ul>
 </h5>
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5&show_icons=true&theme=radical)
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
 
