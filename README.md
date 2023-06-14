@@ -33,11 +33,12 @@ college student B3
 </li>
  <s>※secconが終わり次第、大会で使用したプログラムを反映させます。</s>
  <br>
+ <br>
 
  <li>
 2023年4月29日 ~ 2023年4月30日 <br> DevSecOpsThon2023 at GMO kitaQ 4位[B3]
 </li>
-
+ <br>
 </ul>
 </h5>
 <hr>
