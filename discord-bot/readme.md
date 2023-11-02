@@ -4,10 +4,12 @@
 仕様は以下の画像のよう...
 
 - Onlineのとき
+
 ![](https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png)
 ![](https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png)
 
 - Offlineのとき
+
 ![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png)
 ![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png)
 
