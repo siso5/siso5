@@ -5,14 +5,14 @@
 
 - Onlineのとき
 
-<img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png" width="20%" /> <img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png" width="20%" />
+<img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png" width="30%" /> <img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png" width="30%" />
 
 
 
 - Offlineのとき
 
-![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png)
-![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png)
+<img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png" width="30%" /> <img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png" width="30%" />
+
 
 ### 変更点
 
