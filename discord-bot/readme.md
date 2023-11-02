@@ -1,6 +1,16 @@
 ### 用途
 ##### Minecraftのサーバーの状態などをdiscordのbotのオンライン状態やstatusメッセージで表示できるようにしています。
 
+仕様は以下の画像のよう...
+
+- Onlineのとき
+![](https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png)
+![](https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png)
+
+- Offlineのとき
+![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png)
+![](https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png)
+
 ### 変更点
 
 19行目  host: 'ww[.]xxx[.]net',　//各自のホスト名などに変更する。
