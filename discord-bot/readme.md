@@ -11,8 +11,7 @@
 
 - Offlineのとき
 
-<img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png" width="30%" />
-<img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png" width="30%" />
+<img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-1.png" width="30%" /> <img src="https://github.com/siso5/siso5/blob/main/discord-bot/offline-2.png" width="30%" />
 
 
 
