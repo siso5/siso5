@@ -4,8 +4,7 @@
 仕様は以下の画像のよう...
 
 - Onlineのとき
-<img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png" width="20%" />
-<img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png" width="20%" />
+<img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-1.png" width="20%" /> <img src="https://github.com/siso5/siso5/blob/main/discord-bot/online-2.png" width="20%" />
 
 
 
