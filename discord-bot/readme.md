@@ -32,9 +32,12 @@
 node.jsのバージョンはdiscord.jsを使うため、
 Node.js 16.11.0 or newer is required.
 上記の要件を満たしていることを確認してください。
+
+node -vで確認できます...
 ```
 
 `node -v`
+
 `v19.2.0`
 
 ```
@@ -70,5 +73,6 @@ pm2を用いた起動がおすすめです。
 
 
 PM2について...
+
 URL : [https://pm2.keymetrics.io/](https://pm2.keymetrics.io/)
 
