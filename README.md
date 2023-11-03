@@ -1,4 +1,4 @@
-- 👋 Hi, I’m su_i san(@siso5)
+👋 Hi, I’m su_i san(@siso5)
 
 🐾 <a href="https://x.com/u_i_san" target="_blank"> 𝕏（旧Twitter）[@u_i_san]</a><br>
 🐥 <a href="https://portfolio.peripeteiagrus.net" target="_blank"> My Portfolio</a>
