@@ -1,5 +1,6 @@
 - 👋 Hi, I’m su_i san(@siso5)  
-🐾 <a href="https://mobile.twitter.com/u_i_san">Twitter (@u_i_san)</a>
+🐾 <a href="https://x.com/u_i_san" target="_blank"> 𝕏（旧Twitter）[@u_i_san]</a>
+🐥 <a href="https://portfolio.peripeteiagrus.net" target="_blank"> My Portfolio</a>
 - 👀 I’m interested in VPN protocol.
 - 🌱 I’m currently learning Website design ,low layer, CTF(Capture the Flag).
 - 
