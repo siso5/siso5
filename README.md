@@ -57,9 +57,45 @@ college student B3
 </h5>
 <hr>
 
+![Profile Views](https://img.shields.io/badge/Profile-Views-blue)
+
+### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,php,javascript)](https://skillicons.dev)
+
+### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,svelte,react)](https://skillicons.dev)
+
+### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nginx)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis)](https://skillicons.dev)
+
+### Cloud Service
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+
+### Version Control Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+
+### OS
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kaillinux,mac)](https://skillicons.dev)
+
 ![Suisan(siso5)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=siso5&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siso5)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/u_i_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="u_i_san" height="30" width="40" /></a>
+<a href="https://discord.gg/suisan3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suisan3301" height="30" width="40" /></a>
+</p>
+
 
 <!---
 siso5/siso5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
