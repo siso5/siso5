@@ -93,7 +93,6 @@ college student B3
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/u_i_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="u_i_san" height="30" width="40" /></a>
-<a href="https://discord.gg/suisan3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suisan3301" height="30" width="40" /></a>
 </p>
 
 
