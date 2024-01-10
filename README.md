@@ -25,6 +25,11 @@ college student B3
 
 <ul>
 <li>
+2023月11月7日 ~ 2023年11月9日 <br>  CODEBLUE2023 学生スタッフ[B3]
+</li>
+<br>
+ 
+<li>
 2023月9月11日 ~ 2023年9月15日 <br>  GMO Infra Intern[B3]
 </li>
 <br>
