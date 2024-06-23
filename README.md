@@ -29,13 +29,13 @@ college student B4
 </li>
 <br>
 
-<ul>
+
 <li>
 2023月11月7日 ~ 2023年11月9日 <br>  CODEBLUE2023 学生スタッフ[B3]
 </li>
 <br>
 
-<ul>
+
 <li>
 2023月10月15日 <br>  Okayama Revengers LT大会 #01 運営 [B3]
 </li>
