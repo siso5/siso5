@@ -31,7 +31,7 @@ college student B4
 <br>
 
 <li>
-2024月10月6日 <br>  Okayama Revengers LT大会 #03 運営 [B4]<br>(開催概要 :　"<a href="https://okayama-revengers.connpass.com/event/317725/" target="_blank">https://okayama-revengers.connpass.com/event/317725/</a>" )
+2024月10月6日 <br>  Okayama Revengers LT大会 #03 運営 [B4]<br>(開催概要 :　<p>"<a href="https://okayama-revengers.connpass.com/event/317725/" target="_blank">https://okayama-revengers.connpass.com/event/317725/</a>"</p> )
 </li>
 <br>
  
