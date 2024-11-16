@@ -35,7 +35,7 @@ college student B4
 </li>
 <br>
 
-![リンクのタイトル]((https://okayama-revengers.connpass.com/event/317725/))
+![](https://okayama-revengers.connpass.com/event/317725/)
  
 <li>
 2024月4月27日 <br>  Okayama Revengers LT大会 #02 運営 [B4]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/312845/" target="_blank">https://okayama-revengers.connpass.com/event/312845/</a>")
