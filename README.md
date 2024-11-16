@@ -24,6 +24,17 @@ college student B4
 <h3>My Experience</h3>
 
 <ul>
+
+<li>
+2024月11月13日 ~ 2023年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant)[B3]
+</li>
+<br>
+
+<li>
+2024月10月6日 <br>  Okayama Revengers LT大会 #03 運営 [B4]
+</li>
+<br>
+ 
 <li>
 2024月4月27日 <br>  Okayama Revengers LT大会 #02 運営 [B4]
 </li>
