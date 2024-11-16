@@ -31,12 +31,12 @@ college student B4
 <br>
 
 <li>
-2024月10月6日 <br>  Okayama Revengers LT大会 #03 運営 [B4]<br>(開催概要 : "https://okayama-revengers.connpass.com/event/317725/" )
+2024月10月6日 <br>  Okayama Revengers LT大会 #03 運営 [B4]<br>(開催概要 :　"<a href="https://okayama-revengers.connpass.com/event/317725/" target="_blank">https://okayama-revengers.connpass.com/event/317725/</a>" )
 </li>
 <br>
  
 <li>
-2024月4月27日 <br>  Okayama Revengers LT大会 #02 運営 [B4]<br>(開催概要 : "https://okayama-revengers.connpass.com/event/312845/" )
+2024月4月27日 <br>  Okayama Revengers LT大会 #02 運営 [B4]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/312845/" target="_blank">https://okayama-revengers.connpass.com/event/312845/</a>")
 </li>
 <br>
 
@@ -48,7 +48,7 @@ college student B4
 
 
 <li>
-2023月10月15日 <br>  Okayama Revengers LT大会 #01 運営 [B3]<br>(開催概要 : "https://okayama-revengers.connpass.com/event/295260/" )
+2023月10月15日 <br>  Okayama Revengers LT大会 #01 運営 [B3]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/295260/" target="_blank">https://okayama-revengers.connpass.com/event/295260/</a>")
 </li>
 <br>
  
