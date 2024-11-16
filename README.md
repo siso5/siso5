@@ -26,7 +26,7 @@ college student B4
 <ul>
 
 <li>
-2024月11月13日 ~ 2023年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant)[B3]
+2024月11月13日 ~ 2023年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant) [B3]
 </li>
 <br>
 
@@ -42,7 +42,7 @@ college student B4
 
 
 <li>
-2023月11月7日 ~ 2023年11月9日 <br>  CODEBLUE2023 学生スタッフ[B3]
+2023月11月7日 ~ 2023年11月9日 <br>  CODEBLUE2023 学生スタッフ [B3]
 </li>
 <br>
 
@@ -53,18 +53,18 @@ college student B4
 <br>
  
 <li>
-2023月9月11日 ~ 2023年9月15日 <br>  GMO Infra Intern[B3]
+2023月9月11日 ~ 2023年9月15日 <br>  GMO Infra Intern [B3]
 </li>
 <br>
 
 <li>
-2023月8月7日 ~ 2023年8月11日 <br> セキュリティ・キャンプ2023全国大会 TA"A[B3]
+2023月8月7日 ~ 2023年8月11日 <br> セキュリティ・キャンプ2023全国大会 TA"A [B3]
 </li>
 
 <br>
 
 <li>
-2023年4月29日 ~ 2023年4月30日 <br> DevSecOpsThon2023 at GMO kitaQ 4位[B3]
+2023年4月29日 ~ 2023年4月30日 <br> DevSecOpsThon2023 at GMO kitaQ 4位 [B3]
 </li>
 
 <br>
