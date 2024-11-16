@@ -26,7 +26,7 @@ college student B4
 <ul>
 
 <li>
-2024月11月13日 ~ 2023年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant) [B3]
+2024月11月13日 ~ 2023年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant) [B4]
 </li>
 <br>
 
