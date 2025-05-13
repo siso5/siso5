@@ -24,9 +24,8 @@ college student M1
 <h3>My Experience</h3>
 
 <ul>
-https://okayama-revengers.connpass.com/event/349252/
 <li>
-2024月10月6日 <br>  Okayama Revengers LT大会 #04 運営 [M1]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/349252/" target="_blank">https://okayama-revengers.connpass.com/event/349252/</a>")
+2025月5月11日 <br>  Okayama Revengers LT大会 #04 運営 [M1]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/349252/" target="_blank">https://okayama-revengers.connpass.com/event/349252/</a>")
 </li>
 <br>
 
