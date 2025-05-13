@@ -17,13 +17,18 @@
 
  ### Now
 
-college student B4
+college student M1
 
  
 <hr>
 <h3>My Experience</h3>
 
 <ul>
+https://okayama-revengers.connpass.com/event/349252/
+<li>
+2024月10月6日 <br>  Okayama Revengers LT大会 #04 運営 [M1]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/349252/" target="_blank">https://okayama-revengers.connpass.com/event/349252/</a>")
+</li>
+<br>
 
 <li>
 2024月11月13日 ~ 2024年11月15日 <br>  CODEBLUE2024 学生スタッフ(speaker attendant) [B4]
