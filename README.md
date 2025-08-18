@@ -23,6 +23,10 @@ college student M1
 <hr>
 <h3>My Experience</h3>
 
+<li>
+2025月8月11日 ~ 2023年8月16日 <br> セキュリティ・キャンプ2025 ネクスト[M1]
+</li>
+
 <ul>
 <li>
 2025月5月11日 <br>  Okayama Revengers LT大会 #04 運営 [M1]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/349252" target="_blank">https://okayama-revengers.connpass.com/event/349252/</a>")
