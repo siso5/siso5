@@ -4,7 +4,8 @@
 🐥 <a href="https://portfolio.peripeteiagrus.net" target="_blank"> My Portfolio</a>
 
 - 👀 I’m interested in VPN protocol.
-- 🌱 I’m currently learning Website design ,low layer, CTF(Capture the Flag).
+- 🌱 I’m currently learning Website design ,low layer, CTF(Reversing, Web, Pentest, Forensic etc) .
+- CTF team: full_weak_engineer
 
 <br>
 🌱 Motto 🌱 <br>
@@ -15,19 +16,24 @@
 
 <hr>
 
- ### Now
+### Now
 
 college student M1
 
+
  
 <hr>
-<h3>My Experience</h3>
-
-
-
-<ul> 
 <li>
-2025月8月11日 ~ 2023年8月16日 <br> セキュリティ・キャンプ2025 ネクスト[M1]
+【予定】2026月2月14日 <br>  セキュリティ・キャンプ2026 フォーラム展示・アワード発表 [M1]<br>(開催概要 : "<a href="https://www.security-camp.or.jp/event/forum2026.html" target="_blank">https://www.security-camp.or.jp/event/forum2026.html</a>")
+</li>
+
+<br>
+<li>
+2025月10月4日 <br>  Okayama Revengers LT大会 #05 運営 [M1]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/349252" target="_blank">https://okayama-revengers.connpass.com/event/366345/</a>")
+</li>
+<br>
+<li>
+2025月8月11日 ~ 2025年8月16日 <br> セキュリティ・キャンプ2025 ネクスト[M1]
 </li>
 <br>
 <li>
