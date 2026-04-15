@@ -18,13 +18,13 @@
 
 ### Now
 
-college student M1
+college student M2
 
 
  
 <hr>
 <li>
-【予定】2026月2月14日 <br>  セキュリティ・キャンプ2026 フォーラム展示・アワード発表 [M1]<br>(開催概要 : "<a href="https://www.security-camp.or.jp/event/forum2026.html" target="_blank">https://www.security-camp.or.jp/event/forum2026.html</a>")
+2026月2月14日 <br>  セキュリティ・キャンプ2026 フォーラム展示・アワード発表　最優秀賞 [M1]<br>(開催概要 : "<a href="https://www.security-camp.or.jp/event/forum2026.html" target="_blank">https://www.security-camp.or.jp/event/forum2026.html</a>")
 </li>
 
 <br>
