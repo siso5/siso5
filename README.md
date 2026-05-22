@@ -23,7 +23,7 @@ college student M2
 <hr>
 
 <li>
-2026月5月16日 <br>  Okayama Revengers LT大会 #06 運営 [M2]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/388710/" target="_blank">https://okayama-revengers.connpass.com/event/388710/</a>")
+2026月5月16日 <br>  Okayama Revengers LT大会 #06 運営 [M2]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/388710/" target="_blank">https://okayama-revengers.connpass.com/event/388710</a>")
 </li>
 <br>
 
