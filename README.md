@@ -25,6 +25,7 @@ college student M2
 <li>
 2026月5月16日 <br>  Okayama Revengers LT大会 #06 運営 [M2]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/388710/" target="_blank">https://okayama-revengers.connpass.com/event/388710/</a>")
 </li>
+<br>
 
 <li>
 2026月2月14日 <br>  セキュリティ・キャンプ2026 フォーラム展示・アワード発表　最優秀賞 [M1]<br>(開催概要 : "<a href="https://www.security-camp.or.jp/event/forum2026.html" target="_blank">https://www.security-camp.or.jp/event/forum2026.html</a>")
