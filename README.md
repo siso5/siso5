@@ -38,6 +38,7 @@ college student M2
 <br>
 <li>
 2025月8月11日 ~ 2025年8月16日 <br> セキュリティ・キャンプ2025 ネクスト[M1]
+<br>(開催概要 : "<a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2025/camp/next/info.html" target="_blank">https://www.ipa.go.jp/archive/jinzai/security-camp/2025/camp/next/info.html</a>")
 </li>
 <br>
 <li>
@@ -97,6 +98,7 @@ college student M2
  <br>
 <li>
 2022年8月8日 ~ 2022年8月12日 <br> セキュリティ・キャンプ2022 [B2]
+<br>(開催概要 : "<a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2022/zenkoku/characteristic.html" target="_blank">https://www.ipa.go.jp/archive/jinzai/security-camp/2022/zenkoku/characteristic.html</a>")
 </li>
 
 <br>
