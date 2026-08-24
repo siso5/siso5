@@ -23,6 +23,11 @@ college student M2
 <hr>
 
 <li>
+2026月8月10日 ~ 2026年8月15日 <br> セキュリティ・キャンプ2026 TA'ネクスト [M2]<br>(開催概要 : "<a href="https://www.ipa.go.jp/jinzai/security-camp/next.html" target="_blank">https://www.ipa.go.jp/jinzai/security-camp/next.html</a>")
+</li>
+<br>
+
+<li>
 2026月5月16日 <br>  Okayama Revengers LT大会 #06 運営 [M2]<br>(開催概要 : "<a href="https://okayama-revengers.connpass.com/event/388710/" target="_blank">https://okayama-revengers.connpass.com/event/388710/</a>")
 </li>
 <br>
